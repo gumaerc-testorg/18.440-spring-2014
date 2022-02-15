@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 1e0c6c91-7b56-aa4d-2762-b23c6a84adfe
 ---
@@ -35,20 +37,6 @@ REST ![](/images/educator/icon-question-rest.png)
 ### Offered
 
 Every fall and spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Lecture hall viewed from the front of the room facing toward the rear of the room. Windows line the left side of the room. Fifteen rows of seats with arm tablets are visible.]({{< resource_file b651d72e-0ef4-f4ca-b7c6-618cec43149e >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Lectures were held in a classroom with tiered seating, tablet desks, and sliding blackboards. Audio and visual equipment was available for lecture presentations.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

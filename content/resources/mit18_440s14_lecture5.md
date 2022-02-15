@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 5 notes.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-440-probability-and-random-variables-spring-2014/6c2c7390c2166f6f1941423e282255ac_MIT18_440S14_Lecture5.pdf
+file: /media/courses/18-440-probability-and-random-variables-spring-2014/6c2c7390c2166f6f1941423e282255ac_MIT18_440S14_Lecture5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Probability and Random Variables, Lecture 5
 uid: 6c2c7390-c216-6f6f-1941-423e282255ac

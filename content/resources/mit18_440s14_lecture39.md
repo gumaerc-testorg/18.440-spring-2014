@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Review for Final Exam.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-440-probability-and-random-variables-spring-2014/4d0adff693d92525b30e88b4eb8edfcd_MIT18_440S14_Lecture39.pdf
+file: /media/courses/18-440-probability-and-random-variables-spring-2014/4d0adff693d92525b30e88b4eb8edfcd_MIT18_440S14_Lecture39.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Probability and Random Variables, Lecture 39
 uid: 4d0adff6-93d9-2525-b30e-88b4eb8edfcd

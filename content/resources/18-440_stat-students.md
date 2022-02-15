@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-440-probability-and-random-variables-spring-2014/4b4c1e6db47ad102573a38bd4b6be6d6_18-440_stat-students.png
+file: /media/courses/18-440-probability-and-random-variables-spring-2014/4b4c1e6db47ad102573a38bd4b6be6d6_18-440_stat-students.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: 18-440_stat-students.png
 uid: 4b4c1e6d-b47a-d102-573a-38bd4b6be6d6
