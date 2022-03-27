@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: ad4082be-9ec3-954f-e913-133c8c535e67
 resourcetype: Document
 title: Fall 2012 18.440 Final Exam Solutions
 uid: d17b2ce2-0a97-823e-bd65-a03f8e851855

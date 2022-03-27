@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: ad4082be-9ec3-954f-e913-133c8c535e67
 resourcetype: Document
 title: 18.440 Practice Midterm 1 Solutions
 uid: 5b76e7d4-8e2c-abf4-bc41-965474acc785

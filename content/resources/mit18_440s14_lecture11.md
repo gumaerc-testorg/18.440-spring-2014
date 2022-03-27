@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c9587427-5d73-f12f-83ec-0cf9635a2961
 resourcetype: Document
 title: Probability and Random Variables, Lecture 11
 uid: fe3e93c2-4d80-67fd-7ed1-87946377f473

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: ad4082be-9ec3-954f-e913-133c8c535e67
 resourcetype: Document
 title: 18.440 Practice Midterm 2 Partial Solutions
 uid: 128cda4c-df29-6842-93f7-8b56d0a08627

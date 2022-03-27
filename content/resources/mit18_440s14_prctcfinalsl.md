@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: ad4082be-9ec3-954f-e913-133c8c535e67
 resourcetype: Document
 title: 18.440 Practice Final Exam Solutions
 uid: 03e3d079-7e65-bb21-8779-4f98f0b07fa5

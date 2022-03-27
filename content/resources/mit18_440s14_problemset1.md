@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7b04d449-572e-a9ba-22f1-7379d584bfa4
 resourcetype: Document
 title: Probability and Random Variables, Problem Set 1
 uid: 03d1ebef-b25e-0891-eb39-7f6e02b93f0f
