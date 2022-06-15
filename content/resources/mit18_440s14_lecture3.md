@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 3 notes.
-file: /media/courses/18-440-probability-and-random-variables-spring-2014/8c5daeab46031beef7f01c3bfef48f7e_MIT18_440S14_Lecture3.pdf
+file: /courses/18-440-probability-and-random-variables-spring-2014/8c5daeab46031beef7f01c3bfef48f7e_MIT18_440S14_Lecture3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: Probability and Random Variables, Lecture 3
 uid: 8c5daeab-4603-1bee-f7f0-1c3bfef48f7e
 ---
+This file contains information regarding lecture 3 notes.
+

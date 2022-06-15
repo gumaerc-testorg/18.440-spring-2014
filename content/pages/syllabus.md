@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, textbooks, problem sets, exams, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -30,7 +32,7 @@ Ross, Sheldon. _A First Course in Probability_. 8th ed. Pearson Prentice Hall, 2
 
 ### A Free and Fun-to-Read Book
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Introduction to Probability (PDF - 3.1MB)](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf) by Charles Grinstead and J. Laurie Snell.
+[Introduction to Probability (PDF - 3.1MB)](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf) by Charles Grinstead and J. Laurie Snell.
 
 Problem Sets
 ------------
