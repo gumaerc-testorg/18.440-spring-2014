@@ -6,6 +6,7 @@ file: /courses/18-440-probability-and-random-variables-spring-2014/8e03ea694a66e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Doob\u2019s Optional Stopping Theorem"
 uid: 8e03ea69-4a66-e069-cdc8-e59255a3ba84
 ---
 This resource contains information related to Doob’s Optional Stopping theorem.
-

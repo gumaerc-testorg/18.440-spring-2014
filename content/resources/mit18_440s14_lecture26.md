@@ -5,6 +5,7 @@ file: /courses/18-440-probability-and-random-variables-spring-2014/45b2b86ffc423
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Probability and Random Variables, Lecture 26
 uid: 45b2b86f-fc42-34ef-33d7-8b9cbda159e9
 ---
 This resource contains the information regarding Conditional expectation.
-

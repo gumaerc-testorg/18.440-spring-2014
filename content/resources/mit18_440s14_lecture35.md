@@ -6,6 +6,7 @@ file: /courses/18-440-probability-and-random-variables-spring-2014/95835880b8b2c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Probability and Random Variables, Lecture 35
 uid: 95835880-b8b2-c186-2299-80f4622897df
 ---
 This resource contains the information regarding Martingales and the Optional Stopping Time Theorem.
-

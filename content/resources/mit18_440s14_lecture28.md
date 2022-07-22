@@ -6,6 +6,7 @@ file: /courses/18-440-probability-and-random-variables-spring-2014/1fd5dd31b3947
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Probability and Random Variables, Lecture 28
 uid: 1fd5dd31-b394-7183-0976-6856afa2517c
 ---
 This resource contains the information regarding Review for Midterm Exam 2.
-

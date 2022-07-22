@@ -5,6 +5,7 @@ file: /courses/18-440-probability-and-random-variables-spring-2014/bfb5317922049
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Probability and Random Variables, Lecture 27
 uid: bfb53179-2204-90cb-e669-52f0d18d6989
 ---
 This resource contains the information regarding Moment generating distributions.
-

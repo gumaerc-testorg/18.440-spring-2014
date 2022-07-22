@@ -5,6 +5,7 @@ file: /courses/18-440-probability-and-random-variables-spring-2014/0662f3125596a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Probability and Random Variables, Problem Set 9
 uid: 0662f312-5596-a911-8204-26fb87a88276
 ---
 This resource contains information related to problem set 9.
-

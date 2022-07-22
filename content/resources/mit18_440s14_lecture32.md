@@ -6,6 +6,7 @@ file: /courses/18-440-probability-and-random-variables-spring-2014/99b6e10537945
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Probability and Random Variables, Lecture 32
 uid: 99b6e105-3794-5cfd-c8fc-f4d4ac9720c3
 ---
 This resource contains the information regarding Strong law of large numbers and Jensen's inequality.
-

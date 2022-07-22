@@ -6,6 +6,7 @@ file: /courses/18-440-probability-and-random-variables-spring-2014/416b6eb765206
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Probability and Random Variables, Lecture 23
 uid: 416b6eb7-6520-68a1-0a75-2e5b309c729c
 ---
 This resource contains the information regarding sums of independent random variables.
-

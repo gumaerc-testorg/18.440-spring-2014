@@ -5,6 +5,7 @@ file: /courses/18-440-probability-and-random-variables-spring-2014/6959cf336ccfd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Probability and Random Variables, Lecture 33
 uid: 6959cf33-6ccf-d108-4f3c-b0fb2cf767dc
 ---
 This resource contains the information regarding Markov chains.
-

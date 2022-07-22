@@ -5,6 +5,7 @@ file: /courses/18-440-probability-and-random-variables-spring-2014/d17b2ce20a978
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Fall 2012 18.440 Final Exam Solutions
 uid: d17b2ce2-0a97-823e-bd65-a03f8e851855
 ---
 This resource contains information related to fall 2012 final exam solutions.
-

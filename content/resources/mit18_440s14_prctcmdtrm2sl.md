@@ -6,6 +6,7 @@ file: /courses/18-440-probability-and-random-variables-spring-2014/128cda4cdf296
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 18.440 Practice Midterm 2 Partial Solutions
 uid: 128cda4c-df29-6842-93f7-8b56d0a08627
 ---
 This resource contains information related to practice midterm 2 partial solutions.
-

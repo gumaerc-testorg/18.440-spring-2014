@@ -5,6 +5,7 @@ file: /courses/18-440-probability-and-random-variables-spring-2014/d06be636fc6ff
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Probability and Random Variables, Lecture 18
 uid: d06be636-fc6f-f936-5caf-6ef166eb2b23
 ---
 This file contains information regarding lecture 18 notes.
-

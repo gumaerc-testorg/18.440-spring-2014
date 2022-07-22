@@ -5,6 +5,7 @@ file: /courses/18-440-probability-and-random-variables-spring-2014/fa46012ae33e2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Probability and Random Variables, Lecture 12
 uid: fa46012a-e33e-2e72-8cad-4bff21fc2b37
 ---
 This file contains information regarding lecture 12 notes.
-

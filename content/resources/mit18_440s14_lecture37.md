@@ -5,6 +5,7 @@ file: /courses/18-440-probability-and-random-variables-spring-2014/7774829481ace
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Probability and Random Variables, Lecture 37
 uid: 77748294-81ac-e8cd-4fd2-80a49827ad03
 ---
 This resource contains the information regarding Review for Final Exam.
-

@@ -6,6 +6,7 @@ file: /courses/18-440-probability-and-random-variables-spring-2014/b99adcc166c4d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Probability and Random Variables, Lecture 21
 uid: b99adcc1-66c4-d7cb-2a8c-09f8f7020f90
 ---
 This resource contains the information regarding More continuous random variables.
-

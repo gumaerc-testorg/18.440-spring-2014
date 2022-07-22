@@ -5,6 +5,7 @@ file: /courses/18-440-probability-and-random-variables-spring-2014/fff39bbfccae1
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 18.440 Practice Midterm 1
 uid: fff39bbf-ccae-1f91-bbeb-fbaff2795786
 ---
 This resource contains information related to practice midterm 1.
-
