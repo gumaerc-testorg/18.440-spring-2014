@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to final exam solutions.
 file: /courses/18-440-probability-and-random-variables-spring-2014/04a943be98f224cf8df50c0a40962d78_MIT18_440S14_final2011_sol.pdf
+file_size: 192639
 file_type: application/pdf
 learning_resource_types:
 - Exams

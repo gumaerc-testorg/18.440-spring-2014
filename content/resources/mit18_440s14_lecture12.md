@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding lecture 12 notes.
 file: /courses/18-440-probability-and-random-variables-spring-2014/fa46012ae33e2e728cad4bff21fc2b37_MIT18_440S14_Lecture12.pdf
+file_size: 312070
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

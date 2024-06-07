@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding Risk Neutral Probability
   and Black-Scholes.
 file: /courses/18-440-probability-and-random-variables-spring-2014/4583e12e3e052256867388dd86eb5b8b_MIT18_440S14_Lecture36.pdf
+file_size: 312910
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
