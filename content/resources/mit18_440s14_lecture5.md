@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding lecture 5 notes.
 file: /courses/18-440-probability-and-random-variables-spring-2014/6c2c7390c2166f6f1941423e282255ac_MIT18_440S14_Lecture5.pdf
+file_size: 288729
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to practice midterm 1 solutions.
 file: /courses/18-440-probability-and-random-variables-spring-2014/5b76e7d48e2cabf4bc41965474acc785_MIT18_440S14_prctcmdtm1sl.pdf
+file_size: 147645
 file_type: application/pdf
 learning_resource_types:
 - Exams

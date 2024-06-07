@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to problem set 1.
 file: /courses/18-440-probability-and-random-variables-spring-2014/03d1ebefb25e0891eb397f6e02b93f0f_MIT18_440S14_ProblemSet1.pdf
+file_size: 131564
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding Martingales and the
   Optional Stopping Time Theorem.
 file: /courses/18-440-probability-and-random-variables-spring-2014/95835880b8b2c186229980f4622897df_MIT18_440S14_Lecture35.pdf
+file_size: 244532
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
