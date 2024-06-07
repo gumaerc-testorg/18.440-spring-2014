@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Entropy.
 file: /courses/18-440-probability-and-random-variables-spring-2014/ed1f77ec68cbaa6a415bdab0be8adeee_MIT18_440S14_Lecture34.pdf
+file_size: 255472
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

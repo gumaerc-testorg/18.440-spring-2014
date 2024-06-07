@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Markov chains.
 file: /courses/18-440-probability-and-random-variables-spring-2014/6959cf336ccfd1084f3cb0fb2cf767dc_MIT18_440S14_Lecture33.pdf
+file_size: 264048
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
