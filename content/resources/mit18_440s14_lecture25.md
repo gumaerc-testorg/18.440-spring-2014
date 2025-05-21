@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Covariance and correlation.
-file: /ol-ocw-studio-app/courses/18-440-probability-and-random-variables-spring-2014/4fb33ce3f78f704899fcd92fc85ee3cd_MIT18_440S14_Lecture25.pdf
+file: /courses/18-440-probability-and-random-variables-spring-2014/4fb33ce3f78f704899fcd92fc85ee3cd_MIT18_440S14_Lecture25.pdf
 file_size: 300206
 file_type: application/pdf
 learning_resource_types:

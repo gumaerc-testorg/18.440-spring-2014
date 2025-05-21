@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to problem set 7.
-file: /ol-ocw-studio-app/courses/18-440-probability-and-random-variables-spring-2014/9ccc5dabfc106d3d0ccdc4df57d6089c_MIT18_440S14_ProblemSet7.pdf
+file: /courses/18-440-probability-and-random-variables-spring-2014/9ccc5dabfc106d3d0ccdc4df57d6089c_MIT18_440S14_ProblemSet7.pdf
 file_size: 116307
 file_type: application/pdf
 learning_resource_types:

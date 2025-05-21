@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding More continuous random
   variables.
-file: /ol-ocw-studio-app/courses/18-440-probability-and-random-variables-spring-2014/b99adcc166c4d7cb2a8c09f8f7020f90_MIT18_440S14_Lecture21.pdf
+file: /courses/18-440-probability-and-random-variables-spring-2014/b99adcc166c4d7cb2a8c09f8f7020f90_MIT18_440S14_Lecture21.pdf
 file_size: 274804
 file_type: application/pdf
 learning_resource_types:
