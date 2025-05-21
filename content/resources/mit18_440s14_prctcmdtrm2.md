@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to practice midterm two.
-file: /ol-ocw-studio-app/courses/18-440-probability-and-random-variables-spring-2014/c7f788511ef3812ac7b3d60af57032ae_MIT18_440S14_prctcmdtrm2.pdf
+file: /courses/18-440-probability-and-random-variables-spring-2014/c7f788511ef3812ac7b3d60af57032ae_MIT18_440S14_prctcmdtrm2.pdf
 file_size: 122940
 file_type: application/pdf
 learning_resource_types:

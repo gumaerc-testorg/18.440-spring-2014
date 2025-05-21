@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding sums of independent
   random variables.
-file: /ol-ocw-studio-app/courses/18-440-probability-and-random-variables-spring-2014/416b6eb7652068a10a752e5b309c729c_MIT18_440S14_Lecture23.pdf
+file: /courses/18-440-probability-and-random-variables-spring-2014/416b6eb7652068a10a752e5b309c729c_MIT18_440S14_Lecture23.pdf
 file_size: 276712
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Review for Final Exam.
-file: /ol-ocw-studio-app/courses/18-440-probability-and-random-variables-spring-2014/4d0adff693d92525b30e88b4eb8edfcd_MIT18_440S14_Lecture39.pdf
+file: /courses/18-440-probability-and-random-variables-spring-2014/4d0adff693d92525b30e88b4eb8edfcd_MIT18_440S14_Lecture39.pdf
 file_size: 270582
 file_type: application/pdf
 learning_resource_types:
