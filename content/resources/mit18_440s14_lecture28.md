@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Review for Midterm Exam
   2.
-file: /ol-ocw-studio-app/courses/18-440-probability-and-random-variables-spring-2014/1fd5dd31b394718309766856afa2517c_MIT18_440S14_Lecture28.pdf
+file: /courses/18-440-probability-and-random-variables-spring-2014/1fd5dd31b394718309766856afa2517c_MIT18_440S14_Lecture28.pdf
 file_size: 425631
 file_type: application/pdf
 learning_resource_types:
