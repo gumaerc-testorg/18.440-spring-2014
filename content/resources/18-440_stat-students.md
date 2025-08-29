@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-440-probability-and-random-variables-spring-2014/4b4c1e6db47ad102573a38bd4b6be6d6_18-440_stat-students.png
+file: /ol-ocw-studio-app/courses/18-440-probability-and-random-variables-spring-2014/4b4c1e6db47ad102573a38bd4b6be6d6_18-440_stat-students.png
 file_size: 2906
 file_type: image/png
 image_metadata:
