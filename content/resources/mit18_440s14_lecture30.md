@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Weak law of large numbers.
-file: /courses/18-440-probability-and-random-variables-spring-2014/9adbf88f8a8b456963d6299ea683e954_MIT18_440S14_Lecture30.pdf
+file: /ol-ocw-studio-app/courses/18-440-probability-and-random-variables-spring-2014/9adbf88f8a8b456963d6299ea683e954_MIT18_440S14_Lecture30.pdf
 file_size: 272213
 file_type: application/pdf
 learning_resource_types:

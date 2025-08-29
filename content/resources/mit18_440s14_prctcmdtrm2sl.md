@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to practice midterm 2 partial
   solutions.
-file: /courses/18-440-probability-and-random-variables-spring-2014/128cda4cdf29684293f78b56d0a08627_MIT18_440S14_prctcmdtrm2sl.pdf
+file: /ol-ocw-studio-app/courses/18-440-probability-and-random-variables-spring-2014/128cda4cdf29684293f78b56d0a08627_MIT18_440S14_prctcmdtrm2sl.pdf
 file_size: 235353
 file_type: application/pdf
 learning_resource_types:
