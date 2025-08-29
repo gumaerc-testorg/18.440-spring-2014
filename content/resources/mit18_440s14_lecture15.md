@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 15 notes.
-file: /courses/18-440-probability-and-random-variables-spring-2014/e7db597ccb8d29826517ada7fa97b6b4_MIT18_440S14_Lecture15.pdf
+file: /ol-ocw-studio-app/courses/18-440-probability-and-random-variables-spring-2014/e7db597ccb8d29826517ada7fa97b6b4_MIT18_440S14_Lecture15.pdf
 file_size: 335730
 file_type: application/pdf
 learning_resource_types:

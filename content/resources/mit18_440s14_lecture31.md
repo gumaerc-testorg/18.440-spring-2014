@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Central limit theorem.
-file: /courses/18-440-probability-and-random-variables-spring-2014/a88fddfed579f8c6af51949301f86e18_MIT18_440S14_Lecture31.pdf
+file: /ol-ocw-studio-app/courses/18-440-probability-and-random-variables-spring-2014/a88fddfed579f8c6af51949301f86e18_MIT18_440S14_Lecture31.pdf
 file_size: 301883
 file_type: application/pdf
 learning_resource_types:

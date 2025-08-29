@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Conditional expectation.
-file: /courses/18-440-probability-and-random-variables-spring-2014/45b2b86ffc4234ef33d78b9cbda159e9_MIT18_440S14_Lecture26.pdf
+file: /ol-ocw-studio-app/courses/18-440-probability-and-random-variables-spring-2014/45b2b86ffc4234ef33d78b9cbda159e9_MIT18_440S14_Lecture26.pdf
 file_size: 262687
 file_type: application/pdf
 learning_resource_types:

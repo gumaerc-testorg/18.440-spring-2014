@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains information related to Doob\u2019s Optional Stopping\
   \ theorem."
-file: /courses/18-440-probability-and-random-variables-spring-2014/8e03ea694a66e069cdc8e59255a3ba84_MIT18_440S14_mrtingalenote.pdf
+file: /ol-ocw-studio-app/courses/18-440-probability-and-random-variables-spring-2014/8e03ea694a66e069cdc8e59255a3ba84_MIT18_440S14_mrtingalenote.pdf
 file_size: 93428
 file_type: application/pdf
 learning_resource_types:
