@@ -28,7 +28,7 @@ Ross, Sheldon. *A First Course in Probability*. 8th ed. Pearson Prentice Hall, 2
 
 ### A Free and Fun-to-Read Book
 
-[Introduction to Probability (PDF - 3.1MB)](https://math.dartmouth.edu/~prob/prob/prob.pdf) by Charles Grinstead and J. Laurie Snell.
+{{% resource_link "bd7f3f51-4d75-49ee-bf54-4494823d337c" "Introduction to Probability (PDF - 3.1MB)" %}} by Charles Grinstead and J. Laurie Snell.
 
 ## Problem Sets
 
